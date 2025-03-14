@@ -97,4 +97,4 @@ This Code of Conduct is adapted from the [Contributor Covenant][homepage], versi
 available at [http://contributor-covenant.org/version/1/4][version]
 
 [homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/](https://www.contributor-covenant.org/version/2/1/code_of_conduct/
+[version]:  https://www.contributor-covenant.org/version/2/1/code_of_conduct/
