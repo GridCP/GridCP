@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <img src="https://gridcp.com/wp-content/uploads/elementor/thumbs/gridcp-p5rhkhkramhpotm1ppk8gzq8c6udjsf7ljkfu1rnai.png">	
+    <img src="https://gridcp.com/wp-content/uploads/2021/04/logo-gridcp-rrss-1024x538.png">	
 </p>
 
 
